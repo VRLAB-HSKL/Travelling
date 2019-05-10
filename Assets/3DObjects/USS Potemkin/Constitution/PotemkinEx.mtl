@@ -1,0 +1,282 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.02.2017 04:47:20
+
+newmtl Material__1527
+	Ns 13.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.603922 0.603922 0.603922
+	Kd 0.603922 0.603922 0.603922
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg
+	map_Kd C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg
+	map_Ks C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainSpec.jpg
+	map_bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg
+	bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg
+
+newmtl wire_088144225
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.345098 0.564706 0.882353
+	Kd 0.345098 0.564706 0.882353
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_225088199
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.882353 0.345098 0.780392
+	Kd 0.882353 0.345098 0.780392
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_143225087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.560784 0.882353 0.341176
+	Kd 0.560784 0.882353 0.341176
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_008008136
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.031373 0.031373 0.533333
+	Kd 0.031373 0.031373 0.533333
+	Ks 0.350000 0.350000 0.350000
+
+newmtl Material__435
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.949020 0.878431 0.588235
+	Kd 0.949020 0.878431 0.588235
+	Ks 0.045000 0.045000 0.045000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Material__169
+	Ns 29.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.066667 0.066667 0.066667
+	Kd 0.066667 0.066667 0.066667
+	Ks 0.297000 0.297000 0.297000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl 01___Default
+	Ns 31.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.003922 0.003922
+	Kd 0.000000 0.003922 0.003922
+	Ks 0.837000 0.837000 0.837000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Material__568
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.952941 0.223529 0.027451
+	Kd 0.952941 0.223529 0.027451
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.960784 0.466667 0.027451
+
+newmtl Material__1528
+	Ns 34.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.031373 0.031373 0.043137
+	Kd 0.031373 0.031373 0.043137
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ks C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainSpec.jpg
+	map_Ke C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main-Blue.jpg
+	map_bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg
+	bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg
+
+newmtl wire_214229166
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.839216 0.898039 0.650980
+	Kd 0.839216 0.898039 0.650980
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_184228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.721569 0.894118 0.600000
+	Kd 0.721569 0.894118 0.600000
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_224086086
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.878431 0.337255 0.337255
+	Kd 0.878431 0.337255 0.337255
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_228184153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.894118 0.721569 0.600000
+	Kd 0.894118 0.721569 0.600000
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_061135006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.239216 0.529412 0.023529
+	Kd 0.239216 0.529412 0.023529
+	Ks 0.350000 0.350000 0.350000
+
+newmtl Material__2725
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png
+	map_Kd C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png
+	map_d C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png
+
+newmtl Material__2744
+	Ns 13.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.603922 0.603922 0.286275
+	Kd 0.603922 0.603922 0.286275
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg
+	map_Kd C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg
+
+newmtl Material__2802
+	Ns 8.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.031373 0.031373 0.031373
+	Kd 0.031373 0.031373 0.031373
+	Ks 0.648000 0.648000 0.648000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Color.JPG
+	map_Kd C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Color.JPG
+	map_Ks C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Specular.jpg
+	map_bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Bump.jpg
+	bump C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Bump.jpg
+	map_refl C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Reflect.jpg
+
+newmtl wire_108008136
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.423529 0.031373 0.533333
+	Kd 0.423529 0.031373 0.533333
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_087225143
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.341176 0.882353 0.560784
+	Kd 0.341176 0.882353 0.560784
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_008061138
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.031373 0.239216 0.541176
+	Kd 0.031373 0.239216 0.541176
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_028028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.109804 0.109804 0.694118
+	Kd 0.109804 0.109804 0.694118
+	Ks 0.350000 0.350000 0.350000
+
+newmtl 02___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.780392 0.780392 0.780392
+	Kd 0.780392 0.780392 0.780392
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl wire_176026026
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.690196 0.101961 0.101961
+	Kd 0.690196 0.101961 0.101961
+	Ks 0.350000 0.350000 0.350000

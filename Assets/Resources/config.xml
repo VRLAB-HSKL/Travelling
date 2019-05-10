@@ -1,0 +1,11 @@
+<!--?xml version=”1.0” encoding=”UTF-8”?-->
+<ConfigCollection>
+	<Configs>
+		<Config>
+			<elementsCount>10</elementsCount>
+			<roomType>2</roomType>
+			<movementType>0</movementType>
+			<generateAtStart>false</generateAtStart>
+		</Config>
+	</Configs>		
+ </ConfigCollection>

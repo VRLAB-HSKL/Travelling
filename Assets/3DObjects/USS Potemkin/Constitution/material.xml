@@ -1,0 +1,252 @@
+<settings>
+  <rsettings>
+    <renderEngine name="mental_ray_renderer" />
+    <projectname name="Final_Potem_L.max" />
+    <units name="Generic" />
+    <metric name="meters" />
+    <sysmultiplier name="1248331028" />
+    <sversion name="30" />
+    <metmultiplier name="1024" />
+    <renderMode name="StndRender" />
+    <USType name="ft_Frac_In" />
+    <USFrac name="frac_1_32" />
+    <UnitsSystem name="centimeters" />
+    <resolution name="1920,1080" />
+    <savePath name="" />
+    <GammaLut name="true" gamma="2.2" />
+  </rsettings>
+  <blendmaterials />
+  <twosidematerials />
+  <overridematerials />
+  <diffuse>
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Color.JPG" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg" />
+    <map filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Color.JPG" />
+  </diffuse>
+  <carpaintmaterials />
+  <fastsss2materials />
+  <topbottom />
+  <displacementmodifiers />
+  <materials>
+    <material name="Metal Bronze - Patina" fbxname="MetalFBXASC032BronzeFBXASC032FBXASC045FBXASC032Patina" vray="false" />
+    <material name="Material 48" fbxname="MaterialFBXASC03248" vray="false" />
+    <material name="Material 128" fbxname="MaterialFBXASC032128" vray="false" />
+    <material name="Default Solid Glass" fbxname="DefaultFBXASC032SolidFBXASC032Glass" vray="false" bump_value="0.1" displacement_value="1.0" diffuse_color="159 165 202" />
+    <material name="Material 435" fbxname="MaterialFBXASC032435" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="5" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="242 224 150" self_illum_slider="0.0" />
+    <material name="Material 169" fbxname="MaterialFBXASC032169" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="29" specularLevel="33" glossiness="29" soften="0" specular_color="230 230 230" diffuse_color="17 17 17" self_illum_slider="0.0" />
+    <material name="mat_01 - Default" fbxname="mat_FBXASC0481FBXASC032FBXASC045FBXASC032Default" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="31" specularLevel="93" glossiness="31" soften="0" specular_color="230 230 230" diffuse_color="0 1 1" self_illum_slider="0.0" />
+    <material name="Material 568" fbxname="MaterialFBXASC032568" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="243 57 7" self_illum_slider="0.0" />
+    <material name="Material 1358" fbxname="MaterialFBXASC0321358" vray="false" bump_value="0.3" displacement_value="1.0" diffuse_color="1 0 0" />
+    <material name="Material 1395" fbxname="MaterialFBXASC0321395" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0" />
+    <material name="Material 1396" fbxname="MaterialFBXASC0321396" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0" />
+    <material name="Material 1397" fbxname="MaterialFBXASC0321397" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0" />
+    <material name="Material 1398" fbxname="MaterialFBXASC0321398" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0" />
+    <material name="Material 1399" fbxname="MaterialFBXASC0321399" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0" />
+    <material name="Default Metal" fbxname="DefaultFBXASC032Metal" vray="false" bump_value="0.3" displacement_value="1.0" diffuse_color="3 3 37" />
+    <material name="Material 224" fbxname="MaterialFBXASC032224" vray="false" bump_value="0.1" displacement_value="1.0" diffuse_color="216 18 9" />
+    <material name="Material 1527" fbxname="MaterialFBXASC0321527" vray="false" ambient_value="100.0" diffuse_value="50.0" specular_value="100.0" specularLevel_value="75.0" glossiness_value="100.0" selfillum_value="5.0" opacity_value="100.0" filter_value="100.0" bump_value="20.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="13" specularLevel="0" glossiness="13" soften="0" specular_color="230 230 230" diffuse_color="154 154 154" self_illum_slider="0.0">
+      <shader shaderName="diffuse_map" type="Bitmaptexture" name="Map #17" fbxname="MapFBXASC032FBXASC03517" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="bump_map" type="Bitmaptexture" name="Map #14" fbxname="MapFBXASC032FBXASC03514" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="self_illumination_map" type="Bitmaptexture" name="Map #23" fbxname="MapFBXASC032FBXASC03523" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainSpec.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+    </material>
+    <material name="Material 1528" fbxname="MaterialFBXASC0321528" vray="false" ambient_value="100.0" diffuse_value="16.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="4.0" opacity_value="100.0" filter_value="100.0" bump_value="20.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="34" specularLevel="0" glossiness="34" soften="0" specular_color="230 230 230" diffuse_color="8 8 11" self_illum_slider="0.0">
+      <shader shaderName="diffuse_map" type="Bitmaptexture" name="Map #17" fbxname="MapFBXASC032FBXASC03517" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="bump_map" type="Bitmaptexture" name="Map #14" fbxname="MapFBXASC032FBXASC03514" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="self_illumination_map" type="Bitmaptexture" name="Map #23" fbxname="MapFBXASC032FBXASC03523" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main-Blue.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+    </material>
+    <material name="Material 1609" fbxname="MaterialFBXASC03216FBXASC0489" vray="false" />
+    <material name="Material 1634" fbxname="MaterialFBXASC0321634" vray="false" />
+    <material name="Default Metallic Paint" fbxname="DefaultFBXASC032MetallicFBXASC032Paint" vray="false" bump_value="0.3" displacement_value="1.0" diffuse_color="227 176 15" />
+    <material name="Material 2623" fbxname="MaterialFBXASC0322623" vray="false" />
+    <material name="Material 2725" fbxname="MaterialFBXASC0322725" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="150 150 150" self_illum_slider="0.0">
+      <shader shaderName="diffuse_map" type="Bitmaptexture" name="Map #31" fbxname="MapFBXASC032FBXASC03531" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="false" coord_V_Tile="false" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="opacity_map" type="Bitmaptexture" name="Map #32" fbxname="MapFBXASC032FBXASC03532" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\winhull.png">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="true" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="false" coord_V_Tile="false" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+    </material>
+    <material name="Material 2744" fbxname="MaterialFBXASC0322744" vray="false" ambient_value="100.0" diffuse_value="30.0" specular_value="100.0" specularLevel_value="75.0" glossiness_value="100.0" selfillum_value="5.0" opacity_value="100.0" filter_value="100.0" bump_value="20.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="13" specularLevel="0" glossiness="13" soften="0" specular_color="230 230 230" diffuse_color="154 154 73" self_illum_slider="0.0">
+      <shader shaderName="diffuse_map" type="Bitmaptexture" name="Map #17" fbxname="MapFBXASC032FBXASC03517" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-main.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="bump_map" type="Bitmaptexture" name="Map #14" fbxname="MapFBXASC032FBXASC03514" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainBMP.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="self_illumination_map" type="Bitmaptexture" name="Map #23" fbxname="MapFBXASC032FBXASC03523" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\potemkin-mainSpec.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+    </material>
+    <material name="Material 2802" fbxname="MaterialFBXASC03228FBXASC0482" vray="false" ambient_value="100.0" diffuse_value="35.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="10.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="8" specularLevel="72" glossiness="8" soften="0" specular_color="230 230 230" diffuse_color="8 8 8" self_illum_slider="0.0">
+      <shader shaderName="diffuse_map" type="Bitmaptexture" name="Map #33" fbxname="MapFBXASC032FBXASC03533" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Color.JPG">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="bump_map" type="Bitmaptexture" name="Map #35" fbxname="MapFBXASC032FBXASC03535" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Bump.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Explicit Map Channel" coord_mappingType="Texture" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+      <shader shaderName="reflection_map" type="Bitmaptexture" name="Map #36" fbxname="MapFBXASC032FBXASC03536" filename="C:\Users\Andre\Documents\3d\SpaceshipST\Constitution\Washed Metal 2 Reflect.jpg">
+        <param paramName="Output" type="StandardTextureOutput" output_invert="false" output_clamp="false" output_alphaFromRGB="false" output_rgb_level="1.0" output_rgb_offset="0.0" output_amount="1.0" output_bump_amount="1.0" />
+        <param paramName="Coordinates" type="StandardUVGen" coord_blur="1.0" coord_mapping="Spearical Environment" coord_mappingType="Environ" coord_mapChannel="1" coord_UVW_Type="0" coord_U_Mirror="false" coord_V_Mirror="false" coord_U_Tile="true" coord_V_Tile="true" coord_showMapOnBack="true" coord_Noise_On="false" coord_Noise_Animate="false" coord_UVTransform="(matrix3 [1,0,0] [0,1,0] [0,0,1] [0,0,0])" coord_realWorldScale="false" coord_realWorldHeight="1.0" coord_realWorldWidth="1.0" coord_phase="0.0" coord_U_Offset="0.0" coord_V_Offset="0.0" coord_U_Tiling="1.0" coord_V_Tiling="1.0" coord_U_angle="0.0" coord_V_angle="0.0" coord_W_angle="0.0" coord_Noise_Amount="1.0" coord_Noise_Size="1.0" coord_Noise_Levels="1" coord_blur_Offset="0.0" />
+      </shader>
+    </material>
+    <material name="mat_02 - Default" fbxname="mat_FBXASC0482FBXASC032FBXASC045FBXASC032Default" vray="false" ambient_value="100.0" diffuse_value="100.0" specular_value="100.0" specularLevel_value="100.0" glossiness_value="100.0" selfillum_value="100.0" opacity_value="100.0" filter_value="100.0" bump_value="30.0" reflection_value="100.0" refraction_value="100.0" displacement_value="100.0" opacity_amount="100.0" specular_width="10" specularLevel="0" glossiness="10" soften="0" specular_color="230 230 230" diffuse_color="199 199 199" self_illum_slider="0.0" />
+    <material name="Material 187" fbxname="MaterialFBXASC032187" vray="false" bump_value="0.1" displacement_value="1.0" diffuse_color="249 249 249" />
+  </materials>
+  <background>
+    <color value="0 0 0" />
+    <usemap value="true" />
+  </background>
+  <backgroundmaya>
+    <back color="0 0 0" usemap="true" />
+  </backgroundmaya>
+  <renderableOff />
+  <visibletoCameraOff />
+  <receiveShadowsOff />
+  <castShadowsOff />
+  <lights>
+    <light name="Fspot001" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot002" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot003" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot004" vray="false" target="true" on="true" multiplier="3.0" />
+    <light name="Fspot005" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot006" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot007" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot008" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot015" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot016" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot017" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot009" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot014" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot013" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot012" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot010" vray="false" target="true" on="true" multiplier="1.0" />
+    <light name="Fspot011" vray="false" target="true" on="true" multiplier="1.0" />
+  </lights>
+  <geometrys>
+    <geometry name="Saucer" wirecolor="88 144 225" matList="Material 1527,Material 1358,Default Metallic Paint,Material 1609,Material 224,Material 1634" />
+    <geometry name="NameshipTS" wirecolor="225 88 199" matList="Material 1358" />
+    <geometry name="NCC" wirecolor="143 225 87" matList="Material 1358" />
+    <geometry name="NameshipTS001" wirecolor="225 88 199" matList="Material 1358" />
+    <geometry name="NCC001" wirecolor="143 225 87" matList="Material 1358" />
+    <geometry name="podsmm" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm001" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm002" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm003" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm004" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm005" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm006" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm007" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm008" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm009" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm010" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm011" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm012" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm013" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm014" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm015" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm016" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm017" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm018" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="podsmm019" wirecolor="8 8 136" matList="Material 1527,Material 224" />
+    <geometry name="Phaser006" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser004" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser005" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser001" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser002" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser003" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser007" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="Phaser008" wirecolor="214 229 166" matList="Material 435,Material 169,mat_01 - Default,Material 568" />
+    <geometry name="neck" wirecolor="88 144 225" matList="Material 1528,Material 1527,Material 1358,Material 224,Material 1609,Material 1634,Metal Bronze - Patina" />
+    <geometry name="arete" wirecolor="214 229 166" matList="Material 1527,Metal Bronze - Patina,Material 1528" />
+    <geometry name="torpedobay" wirecolor="184 228 153" matList="Material 1528,Material 1358,Metal Bronze - Patina,Material 224,Material 1527" />
+    <geometry name="warn001" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn003" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn004" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn005" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn006" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn012" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn013" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn010" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn011" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn007" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn008" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="warn009" wirecolor="224 86 86" matList="Default Solid Glass" />
+    <geometry name="Pointer" wirecolor="228 184 153" matList="Material 1358,Material 48,Material 224,Default Metal" />
+    <geometry name="Lines" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines007" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines006" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines005" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines004" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines003" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines002" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Lines001" wirecolor="88 144 225" matList="Material 48,Material 1395,Material 1396,Material 1397,Material 1398,Material 1399,Default Metal" />
+    <geometry name="Hull2" wirecolor="61 135 6" matList="Material 224,Material 1527,Material 1528,Material 1358,Material 2623,Material 1634,Material 1609,Material 2725,Material 2744,Metal Bronze - Patina,Material 2802,Default Solid Glass" />
+    <geometry name="strut" wirecolor="108 8 136" matList="Material 1358" />
+    <geometry name="strut001" wirecolor="108 8 136" matList="Material 1358" />
+    <geometry name="strut002" wirecolor="108 8 136" matList="Material 1358" />
+    <geometry name="strut003" wirecolor="108 8 136" matList="Material 1358" />
+    <geometry name="strut004" wirecolor="108 8 136" matList="Material 1358" />
+    <geometry name="NCC002" wirecolor="143 225 87" matList="Material 1358" />
+    <geometry name="NCC003" wirecolor="143 225 87" matList="Material 1358" />
+    <geometry name="promenade" wirecolor="87 225 143" matList="Material 1528,Material 1527,Material 1609,Default Solid Glass,Material 1634" />
+    <geometry name="bridge" wirecolor="8 61 138" matList="Material 1358,Material 1527,Default Solid Glass,Material 1609,Material 1528" />
+    <geometry name="bridge1st" wirecolor="88 144 225" matList="Material 1527,Material 1528,Metal Bronze - Patina,Material 1609,Material 1634" />
+    <geometry name="ObsBay" wirecolor="28 28 177" matList="Material 1528,Material 1527,Material 1358,Default Solid Glass,Material 1609" />
+    <geometry name="insideEngine" wirecolor="88 144 225" matList="Metal Bronze - Patina,Material 48,Material 128" />
+    <geometry name="enginesS" wirecolor="61 135 6" matList="Material 1527,Material 187,Default Solid Glass,Material 1528,Material 2623,Metal Bronze - Patina,Material 2744,Material 2802" />
+    <geometry name="wing" wirecolor="176 26 26" matList="mat_02 - Default,Material 1358,Default Metallic Paint,Material 1527,Metal Bronze - Patina" />
+  </geometrys>
+  <cameras>
+    <camera name="TempCam" active="false" vray="false" fov="45" />
+  </cameras>
+</settings>
