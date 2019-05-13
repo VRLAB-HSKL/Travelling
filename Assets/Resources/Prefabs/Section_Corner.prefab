@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 23911699812271852}
   - component: {fileID: 65705196318842646}
   - component: {fileID: 114583334085987444}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: cornerTrigger
   m_TagString: cornerTrigger
   m_Icon: {fileID: 0}
@@ -544,7 +544,7 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1.5
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10

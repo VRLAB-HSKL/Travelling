@@ -205,7 +205,7 @@ public class generateCourse : MonoBehaviour
             case "startpointTrigger":
                 timer.start();
                 GameObject.Find("startpointTrigger").GetComponent<BoxCollider>().enabled = false;
-                GameObject.Find("endpointTrigger").GetComponent<BoxCollider>().enabled = true;
+                if(dropdownChooseRoomType.value != 2) GameObject.Find("endpointTrigger").GetComponent<BoxCollider>().enabled = true;
                 break;
             case "endpointTrigger":
                 timer.stop();
