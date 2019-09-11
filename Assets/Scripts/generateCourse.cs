@@ -9,7 +9,7 @@ using System.IO;
 using System.Xml.Linq;
 
 /// <summary>
-/// Die Klasse generateCourse wird dazu genutzt, den Kurs generisch mit den gewählten Eingaben zu erzeugen.
+/// Die Klasse generateCourse wird dazu genutzt, den Kurs mit den gewählten Eingaben zu erzeugen.
 /// </summary>
 public class generateCourse : MonoBehaviour
 {
@@ -175,7 +175,7 @@ public class generateCourse : MonoBehaviour
 #if UNITY_EDITOR
             return Application.dataPath + "/Resources/" + configFileName;
 #else
-        return Application.dataPath +"/"+ configFileName;
+            return Application.dataPath + "/" + configFileName;
 #endif
         }
         else if (path.Equals("csv"))
@@ -183,7 +183,7 @@ public class generateCourse : MonoBehaviour
 #if UNITY_EDITOR
             return Application.dataPath + "/Resources/" + timeSaveFilename;
 #else
-        return Application.dataPath +"/"+ timeSaveFilename;
+            return Application.dataPath + "/" + timeSaveFilename;
 #endif
         }
         return null;
@@ -205,7 +205,7 @@ public class generateCourse : MonoBehaviour
             case "startpointTrigger":
                 timer.start();
                 GameObject.Find("startpointTrigger").GetComponent<BoxCollider>().enabled = false;
-                if(dropdownChooseRoomType.value != 2) GameObject.Find("endpointTrigger").GetComponent<BoxCollider>().enabled = true;
+                if (dropdownChooseRoomType.value != 2) GameObject.Find("endpointTrigger").GetComponent<BoxCollider>().enabled = true;
                 break;
             case "endpointTrigger":
                 timer.stop();
@@ -663,7 +663,7 @@ public class generateCourse : MonoBehaviour
         searchingPictureFrame.SetActive(false);
         searchingObjectContainer.SetActive(false);
         usedObjectCounter = 0;
-        usedPictureCounter = 0;        
+        usedPictureCounter = 0;
         usedBoxCollider = new BoxCollider();
         GameObject.Find("startpointTrigger").GetComponent<BoxCollider>().enabled = true;
     }

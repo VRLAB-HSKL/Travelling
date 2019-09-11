@@ -8,12 +8,6 @@ using UnityEngine;
 /// </summary>
 public class myTriggerEvent : MonoBehaviour
 {
-    // Wird zur Initialisierung genutzt.
-    void Start()
-    {
-
-    }
-
     /// <summary>
     /// Diese Methode wird immer dann aufgerufen, wenn ein Objekt mit dem festgelegten Collider (Collider als isTrigger) kollidiert.
     /// </summary>
@@ -22,11 +16,5 @@ public class myTriggerEvent : MonoBehaviour
     {
         //Ruft die Methode "MyTriggerEnter" im Skript "generateCourse" mit dem aktuellen collider auf.
         GameObject.FindGameObjectWithTag("GameController").GetComponent<generateCourse>().myTriggerEnter(collider, this.gameObject.name);
-    }
-
-    // Update wird einmal pro Frame aufgerufen.
-    void Update()
-    {
-
     }
 }
