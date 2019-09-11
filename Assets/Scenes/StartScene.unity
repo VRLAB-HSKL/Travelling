@@ -242,6 +242,7 @@ GameObject:
   - component: {fileID: 312122905}
   - component: {fileID: 312122906}
   - component: {fileID: 312122907}
+  - component: {fileID: 312122908}
   m_Layer: 0
   m_Name: GameController
   m_TagString: GameController
@@ -309,6 +310,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 726877436}
+--- !u!114 &312122908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 312122904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec8e4962f0b1fd47956066a17a74c16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &318529589
 Prefab:
   m_ObjectHideFlags: 0
