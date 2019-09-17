@@ -5,7 +5,7 @@
 			<elementsCount>10</elementsCount>
 			<roomType>2</roomType>
 			<movementType>0</movementType>
-			<generateAtStart>false</generateAtStart>
+			<generateAtStart>true</generateAtStart>
 		</Config>
 	</Configs>		
  </ConfigCollection>

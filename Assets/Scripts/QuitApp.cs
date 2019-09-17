@@ -33,6 +33,6 @@ public class QuitApp : MonoBehaviour
     // Update wird einmal pro Frame aufgerufen.
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)) quit();
+        //if (Input.GetKeyDown(KeyCode.Escape)) quit();
     }
 }
